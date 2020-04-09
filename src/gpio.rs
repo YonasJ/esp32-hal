@@ -161,7 +161,7 @@ gpio! {
        Gpio17: (17, gpio17, Input<Floating>),
        Gpio18: (18, gpio18, Input<Floating>),
        Gpio19: (19, gpio19, Input<Floating>),
-       Gpio20: (10, gpio20, Input<Floating>),
+       Gpio20: (20, gpio20, Input<Floating>),
        Gpio21: (21, gpio21, Input<Floating>),
        Gpio22: (22, gpio22, Input<Floating>),
        Gpio23: (23, gpio23, Input<Floating>),
